@@ -38,6 +38,9 @@ void print_bucket	 					(lc4_memory_segmented* table,
 					  					 int bucket_number,
 									     FILE* output_file ) ;
 
+void print_asm 							(lc4_memory_segmented* table, 
+										 FILE* output); 
+
 void print_table	 					(lc4_memory_segmented* table, 
 										 FILE* output_file ) ;
 

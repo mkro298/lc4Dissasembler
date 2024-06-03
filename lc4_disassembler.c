@@ -5,7 +5,7 @@
 /*             															*/
 /* Author(s) : tjf and you												*/
 /************************************************************************/
-
+#include <stdlib.h>
 #include <stdio.h>
 #include "lc4_hash.h"
 

@@ -8,6 +8,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "lc4_memory.h"
 #include "lc4_hash.h"
 #include "lc4_loader.h"
