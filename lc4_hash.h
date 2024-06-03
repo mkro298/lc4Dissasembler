@@ -1,10 +1,4 @@
-/************************************************************************/
-/* File Name : lc4_hash.h		 										*/
-/* Purpose   : This header contains the structure for a hash table  	*/
-/* 			   that mimic's the 4 segments of the LC4's memory:  		*/
-/* 			   User Prog/Data Mem, OS Prog/Data Mem 	 				*/
-/* Author(s) : tjf 														*/
-/************************************************************************/
+
 
 #ifndef LC4_HASH_H
 #define LC4_HASH_H
